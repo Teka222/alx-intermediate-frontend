@@ -1,0 +1,13 @@
+// 1-color_variable.scss
+
+// Define a Sass variable for the color
+$main-color: #3D3D3D;
+
+// Apply the color to body and p tags
+body {
+  color: $main-color;
+}
+
+p {
+  color: $main-color;
+}
